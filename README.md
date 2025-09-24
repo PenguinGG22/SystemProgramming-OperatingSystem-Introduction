@@ -2,7 +2,7 @@
 
 Operating System Concepts Essential - Summary
 
-Window - Linux
+## Window - Linux Setting
 ```
 1. Ctrl + Shift + P
 2. Terminal: Select Default Profile
