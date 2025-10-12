@@ -1,6 +1,11 @@
 # OperatingSystem-Essentials
 
-Operating System Concepts Essential - Summary
+## Reference
+혼자 공부하는 컴퓨터 구조 + 운영체제  
+Operating System Concepts Essential  
+
+## Lecture
+Operating System COM3005  
 
 ## Window - Linux Setting
 ```
