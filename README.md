@@ -7,7 +7,6 @@ Operating System Concepts Essential
 
 ## Lecture
 Operating System COM 3005  
-운영체제 [KUOCW]  
 
 ## Window - Linux Setting
 ```
