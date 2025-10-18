@@ -6,7 +6,7 @@
 Operating System Concepts Essential  
 
 ## Lecture
-Operating System COM 3005  
+Operating System COM3005  
 
 ## Window - Linux Setting
 ```
